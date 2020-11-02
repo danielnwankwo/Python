@@ -11,10 +11,10 @@
 #
 # # Type of variable in Python
 # # String values, integer, float, boolean
-# print(name)
-# print(age)
-# print(travel_allowance)
-# print(hourly_wage)
+print(name)
+print(age)
+print(travel_allowance)
+print(hourly_wage)
 # How can we find out the type of variable
 # we have the type() method to find out the variable type in method
 # Print(type(variable name))
@@ -24,6 +24,6 @@
 name = input("PLease Enter Your Name")
 # Getting user data by using input method
 
-# Print(name)
+Print(name)
 
 
