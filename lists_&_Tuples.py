@@ -44,7 +44,7 @@
 # mixed_shopping_list = [1, 2, 3, "apple", "milk", "bread", "sausage"]
 # print(mixed_shopping_list)
 # display the type of data
-# print(type(mixed_shopping_list))
+# print((mixed_shopping_list)type())
 # # add, delete, replace, pop,
 # mixed_shopping_list.pop()
 # mixed_shopping_list.append("cake")
